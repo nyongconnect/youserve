@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YouServe</string>
+    <string name="priority_one">1</string>
+    <string name="build_app">Build App</string>
+    <string name="date">26/4/2020</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="description_hint">description</string>
+    <string name="name">Name</string>
+    <string name="priority">Priority</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="add_event">Add</string>
+    <string name="update">Update</string>
+</resources>
